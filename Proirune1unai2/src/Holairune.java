@@ -1,7 +1,7 @@
 
 public class Holairune {
  public static void main(String[]args) {
-	 System.out.println("Hola :D");
-	 System.out.println("Chau :(");
+	 System.out.println("Hola miarma");
+	 System.out.println("¿Qué currículum tiene esta tarántula?");
  }
 }
