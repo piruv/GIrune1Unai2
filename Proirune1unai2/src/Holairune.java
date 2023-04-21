@@ -5,6 +5,6 @@ public class Holairune {
 	 System.out.println("¿Qué currículum tiene esta tarántula?");
 	 System.out.println("Te tienen que meter en una máquina de "
 	 		+ "triturar la carne pa' salir guapaAAA");
-	 System.out.println("Eh Oh");
+	 System.out.println("Eh Ohh");
  }
 }
